@@ -1,3 +1,3 @@
 # hrmsSql
 Hrms PostgreSQL database 
-<img src="hrms.png" alt="sql">
+<img src="hrms.jfif" alt="sql">
